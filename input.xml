@@ -1,0 +1,13 @@
+<?xml version="1.0"?><IDMAP>
+<RECORD>
+    <TOKEN data="414" />
+    <NAME data="existing_value1" />
+</RECORD>
+<RECORD>
+    <TOKEN data="420" />
+    <NAME data="existing_value2" />
+</RECORD>
+<RECORD>
+    <TOKEN data="361" />
+    <NAME data="existing_value3" />
+</RECORD></IDMAP>
