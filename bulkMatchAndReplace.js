@@ -11,7 +11,7 @@ gulp.task('default', function() {
     var array2 = ["new_value1", "new_value2", "new_value3"];
     var stream = gulp.src(['input/*.xml']); 
     
-    for (i=0;i<users1.length;i++) { 
+    for (i=0; i<array1.length; i++) { 
         stream = stream.pipe(replace(array1[i], array2[i])); 
         } 
     return stream.pipe(gulp.dest('build/')
